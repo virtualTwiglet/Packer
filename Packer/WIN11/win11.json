@@ -24,12 +24,12 @@
       "vm_name":                "{{user `vm_name`}}",
       "notes":                  "{{user `notes`}}",
       "cpus":                   "2",
-      "ram":                    "4096",
+      "ram":                    "8192",
       
       "datastore":              "{{user `datastore`}}",
       "disk_thin_provisioned":  true,
       "disk_size":              "32768",
-      "disk_controller_type":  "lsilogic-sas",
+      "disk_controller_type":  "pvscsi",
 
       "network":                "{{user `network`}}",
       "network_card":           "vmxnet3",
