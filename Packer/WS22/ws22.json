@@ -37,8 +37,8 @@
       "guest_os_type": "windows9Server64Guest",
 
       "iso_paths": [
-            "[esxi1-nvme] ISO/Windows/17763.737.190906-2324.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us_1.iso",
-            "[esxi1-nvme] ISO/VMTools/VMware-tools-windows-11.0.1-14773994.iso"
+            "[esxi01] ISO/Windows/en-us_windows_server_2022_updated_jan_2023_x64_dvd_2897e63d.iso",
+            "[esxi01] ISO/VMTools/VMware-Tools-windows-12.3.0-22234872.iso"
           ],
       "floppy_files": [
         "./autounattend.xml",
