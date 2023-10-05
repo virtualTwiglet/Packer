@@ -12,6 +12,6 @@
     "winrm_username": "administrator",
     "winrm_password": "VMware1!",
 
-    "vm_name":  "WS22-TPL",
+    "vm_name":  "Win11-22H2-GI",
     "notes": "Template Built October, 2023"
 }
