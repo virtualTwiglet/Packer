@@ -37,7 +37,7 @@
       "guest_os_type": "windows11-64",
 
       "iso_paths": [
-            "[esxi01] ISO/Windows/en-us_windows_server_2022_updated_jan_2023_x64_dvd_2897e63d.iso",
+            "[esxi01] ISO/Windows/en-gb_windows_11_business_editions_version_22h2_updated_sep_2023_x64_dvd_b790d2ab.iso",
             "[esxi01] ISO/VMTools/VMware-Tools-windows-12.3.0-22234872.iso"
           ],
       "floppy_files": [
