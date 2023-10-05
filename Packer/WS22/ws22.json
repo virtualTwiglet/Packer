@@ -29,7 +29,7 @@
       "datastore":              "{{user `datastore`}}",
       "disk_thin_provisioned":  true,
       "disk_size":              "32768",
-      "disk_controller_type":  "lsilogic-sas",
+      "disk_controller_type":  "pvscsi",
 
       "network":                "{{user `network`}}",
       "network_card":           "vmxnet3",
