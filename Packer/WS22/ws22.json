@@ -34,7 +34,7 @@
       "network":                "{{user `network`}}",
       "network_card":           "vmxnet3",
 
-      "guest_os_type": "windows9Server64Guest",
+      "guest_os_type": "windows2019srvNext_64Guest",
 
       "iso_paths": [
             "[esxi01] ISO/Windows/en-us_windows_server_2022_updated_jan_2023_x64_dvd_2897e63d.iso",
