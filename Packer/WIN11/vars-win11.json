@@ -1,0 +1,17 @@
+
+{
+    "vcenter_server":"vcsa01.virtualtwiglet.co.uk",
+    "vsphere_username":"administrator@vsphere.local",
+    "vsphere_password":"VMwareHorizon7!!",
+    "datastore":"vsanDatastore",
+    "host":"esxi1-mgmt.home.lab",
+    "datacenter": "Datacenter",
+    "folder": "Template",
+    "cluster": "SME-Cluster",
+    "network": "DPG-Mgmt",
+    "winrm_username": "administrator",
+    "winrm_password": "VMware1!",
+
+    "vm_name":  "WS22-TPL",
+    "notes": "Template Built October, 2023"
+}
